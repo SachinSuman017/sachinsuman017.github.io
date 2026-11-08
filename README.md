@@ -14,9 +14,13 @@ Las dos ediciones de Meli Propuestas pertenecen al mismo proyecto; no se cuentan
 
 ## El recorrido
 
-Necesidad → personas → objetivo → plan → herramienta → aprendizaje.
+Ideas → planes → propuestas → crecimiento → proyectos.
 
-La presentación se puede explorar con scroll o con un recorrido automático que comienza al pulsar su botón y permite pausar y continuar. Incluye una vista de lectura libre cuando el sistema solicita movimiento reducido.
+Una gota central abre el recorrido sobre negro. El impacto revela ondas de agua con un arcoíris suave y después da paso a una cascada de luz que acompaña la historia. La entrada dura once segundos y continúa automáticamente por los momentos y proyectos.
+
+Podés pausar, omitir la entrada, recorrer con scroll o volver a verla. La rueda, el gesto táctil y las teclas de navegación detienen el avance automático para permitir la lectura. Se respeta la preferencia de movimiento reducido.
+
+El cierre destaca Meli Propuestas y enlaza a su historia y herramientas. El contacto abre un borrador de Gmail que la persona puede revisar y enviar.
 
 ## Aportes
 
@@ -32,6 +36,6 @@ Hoy trabajo en Mercado Libre. Este espacio es un proyecto personal e independien
 
 ## Versión
 
-v0.2.3 · Portada personal y progreso de proyectos.
+v0.3.2 · El origen de una idea. Edición elegida con ondas arcoíris.
 
 El código empaquetado incluye Three.js y conserva su licencia MIT completa. Los nombres y logos de Mercado Pago se usan para identificar el proyecto relacionado; pertenecen a sus titulares.
